@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Ahas"
+date:   2017-11-14 14:52:14 +0100
+categories: retrospectiveKIT
+concert_date: 2016-02-04 20:00:00 +0100
+---
+##Systemadministrator
+*Han du altid kan spørre 
+*Stålkontroll på release
+*Han som kan alt av linux
+*Configuration as code, er kort sagt og configurasjonen i koden.
+**Versjonering
+**Sporbarhet
+**Kan gjøre config endringer uten redeploy av kode.
+*Mannen som ga oss egne testmiljøer med rancher.
+
+##Arbeidsflyt
+*Utvikling på egen branch, testes på eget utviklingsmiljø
+*Testet ok på eget utviklingsmiljø, merges dette ned i utviklings branch
+*Utviklings branch er testes ok, tagges release og shippes.
+

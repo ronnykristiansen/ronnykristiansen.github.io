@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Velkommen til min eminente statiske hjemmeside"
+date:   2017-11-14 14:52:14 +0100
+categories: news
+---
+Statisk kan også bety at det ikke skjer så mye etter dette.

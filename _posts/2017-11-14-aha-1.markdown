@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Ahas"
+date:   2017-11-14 14:52:14 +0100
+categories: retrospectiveKIT
+concert_date: 2016-02-04 20:00:00 +0100
+---
+##Python, hæ jaja det funker jeg skal kode frontend.
+*Det funker, raskt og komme i gang.
+*Lite kode, men hvordan henger komponentene bibliotekekene sammen.
+*Glemte vi og si det vi har ikke testet dette på windows. Aha da får du ikke kodet noe frontendt (løsning 1: vagrant, løsning 2: docker)
+*Vi bytter til linux, raskere, bedre støtte for utvikler verktøy
+
+##2 web applikajoner portal(jinja) og admin(angularjs).
+*Applikasjonene lever litt selvstendig, trenger kun og kjøre opp den ene.
+*Felles core kodebase.(datamodel, services etc)
+*Hmm, aha burde ikke vi gjort det også på tidligere applikasjoner?svaret er JA
+
+##Endringer er klare fra backend utvikler.
+*git pull alembic upgrade head.
+*Funker dette, database endringene kommer faktisk med comitten.
+*Prøve flyway eller lignende, har en håndfull prosjekter det alter script har kommet ut av sync.
+
+
+
+
+
+
+
