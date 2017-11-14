@@ -20,7 +20,7 @@ In the same building as the amcar club, there was also a biker club, and since t
 
 After a month of hard work of knocking’ down walls, building a stage, painting etc., it was finished and we re-opened in september with The Trouble Boys (ex. Teencats)
 
-venueOur intensions was from day one to do one gig each month, since the scene in Norway aren't good enough for weekly gigs. And so we did lots of hard work booking bands, getting PA for the gigs, picking up the bands on the airport, delivering them the next morning. As the only club up and running in the beginning and attracting people from most of southern Norway, we soon became a breeding place for new and old rockers in Norway. After a while the second Rock'n'Roll Club in Norway got back in action again booking bands. But we still keept on Rockin egar to be the best rockin' club in Norway.
+venue. Our intensions was from day one to do one gig each month, since the scene in Norway aren't good enough for weekly gigs. And so we did lots of hard work booking bands, getting PA for the gigs, picking up the bands on the airport, delivering them the next morning. As the only club up and running in the beginning and attracting people from most of southern Norway, we soon became a breeding place for new and old rockers in Norway. After a while the second Rock'n'Roll Club in Norway got back in action again booking bands. But we still keept on Rockin egar to be the best rockin' club in Norway.
 
 Some new bands almost started their carear at our club like Rebels Revenge and Backyard Drifters, with support from all of our visitors vi also decided to have a go at Norways first Rockabilly Alldayer, and with the pre-party it reminded much about a festival. So the 3 next years we arranged a festival instead.
 
